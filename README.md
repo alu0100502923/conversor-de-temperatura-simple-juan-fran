@@ -12,10 +12,11 @@
 * Uso de Mocha y Chai 
 * Uso de Gulp
 
+### Página Principal
+
+* http://alu0100502923.github.io/
+
 ### Despliegue en github.io
 
-* [http://crguezl.github.io/ull-etsii-grado-pl-1213-temperature-converter/](http://crguezl.github.io/ull-etsii-grado-pl-1213-temperature-converter/)
+* http://alu0100502923.github.io/conversor-de-temperatura-simple-juan-fran/
 
-### Ejecutar las pruebas
-
-* [http://crguezl.github.io/ull-etsii-grado-pl-1213-temperature-converter/tests/index.html](http://crguezl.github.io/ull-etsii-grado-pl-1213-temperature-converter/tests/index.html)
