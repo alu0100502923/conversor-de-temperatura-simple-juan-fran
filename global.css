@@ -10,7 +10,7 @@ th, td      {
 			   display:block;
 			   padding: 15px;
             } 
-#converted  { color: #8f325e; font-weight: bold; font-size:large;          }
+#converted  { color: #4c1f34; font-weight: bold; font-size:large;          }
 input       {
               text-align: left;
               border: inset;
@@ -31,7 +31,7 @@ h1 {
 
     font-weight: normal;
     font-family: 'Great Vibes';
-    background: #383767;
+    background: #4c1f34;
     padding: 5px 15px;
 	margin: 50px;
     color: white;
