@@ -1,29 +1,40 @@
+@import url(https://fonts.googleapis.com/css?family=Great+Vibes);
+
+
+
 th, td      {
                vertical-align: top;
-               text-align: right;
+               text-align: center;
                font-size:large;
                // border: 1px solid black;
-            }     /* Don't center table cells  */
-#converted  { color: red; font-weight: bold; font-size:large;          }     /* Calculated values in bold */
+			   display:block;
+			   padding: 15px;
+            } 
+#converted  { color: #8f325e; font-weight: bold; font-size:large;          }
 input       {
-              text-align: right;       /* Align input to the right  */
-              border: none;
-              border-radius: 20px 20px 20px 20px;
+              text-align: left;
+              border: inset;
+			  border-color: black;
               padding: 5px  5px;
               font-size:large;       }
+			  
 body
 {
- background-color:#b0c4de;  /* blue */
+ background: linear-gradient(to right, #ea5757, #00abfa);
  font-size:large;
  font-family: "Lucida Sans Typewriter", "Lucida Console", Monaco, "Bitstream Vera Sans Mono", monospace;
+ display:list-item;
+ text-align:left;
 }
 
 h1 {
+
     font-weight: normal;
-    font-family: "Brush Script MT", cursive;
-    background: #3C5681;
+    font-family: 'Great Vibes';
+    background: #383767;
     padding: 5px 15px;
+	margin: 50px;
     color: white;
     display:inline-block;
-    border-radius: 10px 10px 10px 10px;
+    border-radius: 30px;
 }
